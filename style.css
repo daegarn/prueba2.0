@@ -1,0 +1,9 @@
+.cuerpo{
+    display: flex;
+}
+.cajaproductos{
+    background-color: aqua;
+}
+.cajafunciones{
+    background-color: rebeccapurple;
+}
